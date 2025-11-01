@@ -183,7 +183,7 @@ class MetodoAfricanoApp {
     handleFinalCTA() {
         // This would typically redirect to a purchase page or external link
         console.log('Final CTA clicked - redirect to purchase page');
-        // window.location.href = 'https://purchase-page.com';
+        // window.location.href = 'https://lastlink.com/p/CB7BD3EB9/checkout-payment/';
     }
     
     /**
